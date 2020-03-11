@@ -1,0 +1,20 @@
+void SetColor();
+int errorFunction();
+void credit(error);
+void ornementMenu();
+void Gloub();
+void GloubZoubi();
+int Menu(error);
+void Combat();
+void Mage();
+void Guerrier();
+void Assassin();
+void Archer();
+int newGame(error);
+void quit(error);
+void scenario();
+void combat();
+void InitMonster();
+void InitPotion();
+void InitWeapon();
+
